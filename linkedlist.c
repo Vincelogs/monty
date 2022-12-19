@@ -4,7 +4,6 @@
  * add_node - add a new node to a circular linked list
  * @stack: double pointer to the beginning of the circular linked list
  * @n: value to add to the new node
- *
  * Description: the function will add the node to the begining if in
  * stack mode and the end if in queue mode
  *
