@@ -5,7 +5,7 @@
  * @stack: double pointer to head of stack
  * @line_number: line number being executed from script file
  *
- * Return: void
+ * Return: nothing
  */
 void m_pall(stack_t **stack, unsigned int line_number)
 {
