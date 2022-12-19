@@ -5,7 +5,7 @@
  * @status: status passed to exit
  * @arg: pointer to file stream
  *
- * Return: void
+ * Return: nothing
  */
 void m_fs_close(int status, void *arg)
 {
